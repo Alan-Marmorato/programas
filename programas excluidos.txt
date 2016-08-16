@@ -1,0 +1,59 @@
+Aplicativos removidos durante a atualização do PC
+Nome do aplicativo	Fornecedor	Versão
+Adobe Acrobat Reader DC - Português	Adobe Systems Incorporated	15.017.20053
+Astah Community 7_0_0	Change Vision, Inc.	
+Atom	GitHub Inc.	1.9.8
+aTube Catcher versão 3.8	DsNET Corp	3.8
+Brackets	brackets.io	1.6
+BS.Player FREE	AB Team, d.o.o.	2.69.1079
+Dell System Detect	Dell	6.12.0.1
+Emergency Download Driver	Microsoft	1.1.16.1526
+FFU Loader Driver 1.0.0	Microsoft	1.0.0
+Git version 2.9.2	The Git Development Community	2.9.2
+GitHub	GitHub, Inc.	3.2.0.0
+Google Chrome	Google Inc.	52.0.2743.116
+Intel(R) Processor Graphics	Intel Corporation	20.19.15.4331
+Intel(R) Rapid Storage Technology	Intel Corporation	12.8.2.1000
+Intel(R) SDK for OpenCL - CPU Only Runtime Package	Intel Corporation	3.0.0.66956
+Java 8 Update 91 (64-bit)	Oracle Corporation	8.0.910.14
+Java SE Development Kit 8 Update 77 (64-bit)	Oracle Corporation	8.0.770.3
+JavaFX Scene Builder 2.0	Oracle	2.0
+JetBrains PhpStorm 2016.1.2	JetBrains s.r.o.	145.1616.3
+JetBrains WebStorm 2016.2.1	JetBrains s.r.o.	162.1447.27
+Microsoft ASP.NET MVC 4 Runtime	Microsoft Corporation	4.0.40804.0
+Microsoft Office Professional Plus 2010	Microsoft Corporation	14.0.7015.1000
+Microsoft Silverlight	Microsoft Corporation	5.1.50428.0
+Microsoft SQL Server 2005 Compact Edition [ENU]	Microsoft Corporation	3.1.0000
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148	Microsoft Corporation	9.0.30729.4148
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161	Microsoft Corporation	9.0.30729.6161
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148	Microsoft Corporation	9.0.30729.4148
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161	Microsoft Corporation	9.0.30729.6161
+Microsoft Visual C++ 2010 x64 Redistributable - 10.0.40219	Microsoft Corporation	10.0.40219
+Microsoft Visual C++ 2010 x86 Redistributable - 10.0.40219	Microsoft Corporation	10.0.40219
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610	Microsoft Corporation	11.0.60610.1
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005	Microsoft Corporation	12.0.21005.1
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005	Microsoft Corporation	12.0.21005.1
+Microsoft Visual Studio 2010 Tools for Office Runtime (x64)	Microsoft Corporation	10.0.50903
+Microsoft Visual Studio Code	Microsoft Corporation	1.4.0
+Mozilla Firefox 46.0.1 (x86 pt-BR)	Mozilla	46.0.1
+Mozilla Maintenance Service	Mozilla	46.0.1
+Node.js	Node.js Foundation	4.4.7
+Notepad++	Notepad++ Team	6.9.1
+NVIDIA Driver de gráficos 361.43	NVIDIA Corporation	361.43
+NVIDIA GeForce Experience 2.11.3.5	NVIDIA Corporation	2.11.3.5
+NVIDIA Software do sistema PhysX 9.15.0428	NVIDIA Corporation	9.15.0428
+Pacote de Driver do Windows - Microsoft USBDevice (02/19/2016 1.0.0.0)	Microsoft	02/19/2016 1.0.0.0
+Pacote de Idiomas do Microsoft Visual Studio 2010 Tools for Office Runtime (x64) - Português (Brasil)	Microsoft Corporation	10.0.50903
+Realtek Card Reader	Realtek Semiconduct Corp.	10.0.10586.21288
+Realtek Ethernet Controller All-In-One Windows Driver	Realtek	7.72.410.2013
+Realtek High Definition Audio Driver	Realtek Semiconductor Corp.	6.0.1.7544
+Software Intel® PROSet/Wireless	Intel Corporation	17.13.1
+Sublime Text Build 3114	Sublime HQ Pty Ltd	
+Validity Sensors DDK	Validity Sensors, Inc.	4.4.231.0
+Windows IP Over USB	Microsoft Corporation	10.1.10586.15
+Windows Live Essentials	Microsoft Corporation	16.4.3528.0331
+WinRAR 5.21 (64-bit)	win.rar GmbH	5.21.0
+WinUsb CoInstallers	Microsoft	1.1.12.1526
+WinUSB Compatible ID Drivers	Microsoft	1.1.11.1526
+WinUSB Drivers ext	Microsoft	1.1.24.1544
+segunda-feira, 15 de agosto de 2016 01:29
